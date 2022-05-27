@@ -1,6 +1,6 @@
 # Password Generator 
 
-![This is an image preview](./Develop/images/Capture.PNG)
+![This is an image preview](./images/Capture.PNG)
 
 ## Purpose
 This is an attempt at building a random password generator. Its intended use is to provide a quick was of obtaining a secure password for important websites
